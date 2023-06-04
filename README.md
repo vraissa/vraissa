@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Vitoria Raissa 😄
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Mercado Livre 💛
 - 🌱 I’m currently learning Golang
